@@ -1,0 +1,16 @@
+# Core Dependencies
+numpy>=1.24.0
+
+# ARC Environment
+arcle==0.2.5
+
+# Progress Tracking
+tqdm>=4.65.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Data Processing
+pickle5>=0.0.11  # For Python < 3.8 compatibility
+gymnasium >=0.28.0
+ffmpeg-python

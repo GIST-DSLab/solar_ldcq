@@ -1,0 +1,16 @@
+# Core Dependencies
+torch>=1.13.0
+numpy>=1.24.0
+
+# ARC Environment
+arcle==0.2.5
+
+# Training & Monitoring
+tqdm>=4.65.0
+wandb>=0.13.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Optional: For debugging
+ipdb>=0.13.0
